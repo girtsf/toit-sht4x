@@ -1,0 +1,6 @@
+sdk: ^2.0.0-alpha.198
+prefixes:
+  sht4x: toit-sht4x
+packages:
+  toit-sht4x:
+    path: ..

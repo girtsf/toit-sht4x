@@ -1,0 +1,4 @@
+name: sht4x
+description: Driver for the Sensirion SHT4x I2C humidity and temperature sensors.
+environment:
+  sdk: ^2.0.0-alpha.198

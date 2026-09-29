@@ -1,0 +1,3 @@
+dependencies:
+  sht4x:
+    path: ..
